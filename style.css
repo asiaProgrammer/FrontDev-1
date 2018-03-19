@@ -1,0 +1,10 @@
+nav > ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+}
